@@ -1,2 +1,2 @@
-# healt-check
+# health-check
 course coursera
