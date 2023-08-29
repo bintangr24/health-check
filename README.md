@@ -3,5 +3,5 @@ course coursera
 
 Bintang Ramadhan
 Bunga Shafira
-Henna Cahya
-Henna Kejora
+Henna Cahya Kejora
+Arjuna Melandri Putra
